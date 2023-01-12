@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm jackball24-时空</h1>
 <h3 align="center">A green hand&weak 只因</h3>
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=jackball24&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
