@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jackball24-时空</h1>
-<h3 align="center">A green hand&rookie</h3>
+<h3 align="center">A green hand&Rookie</h3>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%98v+try+my+best+to+learn+Web%26Python;And+wish+to+command+Java%26Go+tomorrow" alt="Typing SVG" /></a>
 </div>
