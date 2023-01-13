@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm jackball24-时空</h1>
 <h3 align="center">A green hand&rookie</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%98v+try+my+best+to+learn+Web%26Python;Wish+to+command+Java%26Go" alt="Typing SVG" /></a>
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=jackball24&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
