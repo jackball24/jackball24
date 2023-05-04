@@ -8,11 +8,10 @@
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=jackball24&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jackball24&show_icons=true" width="400" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jackball24&show_icons=true" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackball24&show_icons=true" /> </div>
 
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_60986212&theme=dark"><img src="https://stats.justsong.cn/api/bilibili?id=185591917&theme=cobalt"> </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackball24&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <h3 align="center">My blog:is repairing and creating……</h3>
 
 
@@ -58,8 +57,7 @@
 <table><tr><td valign="top" width="33%">
 
 
-
-#### Have ever heard about
+<h4 align="center">Have ever heard about</h4>
 <div align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
@@ -100,7 +98,7 @@
 </td>
 <td valign="top" width="33%">
 
-#### Using
+<h4 align="center">Using</h4>
 <div align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -113,7 +111,7 @@
 </td>
 <td valign="top" width="33%">
 
-#### Learning
+<h4 align="center">Learning</h4>
 <div align="center">
   <a href="https://www.docker.com" target="_black" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /> </a>  
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
