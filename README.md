@@ -7,16 +7,17 @@
 </div>
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=jackball24&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jackball24&show_icons=true&theme=onedark" /> 
 </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jackball24&show_icons=true" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackball24&show_icons=true" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackball24&show_icons=true&theme=onedark&layout=compact&hide=html,css,tex" /> </div>
 
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_60986212&theme=dark"><img src="https://stats.justsong.cn/api/bilibili?id=185591917&theme=cobalt"> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_60986212&theme=tokyonight"><img src="https://stats.justsong.cn/api/bilibili?id=185591917&theme=tokyonight"> </div>
 
-<h3 align="center">My blog:is repairing and creating……</h3>
+<h3 align="center">My blog: (https://jackball24.github.io/)</h3>
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/jackball24sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jackball24sk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jack ball" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jack ball" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19986013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19986013" height="30" width="40" /></a>
@@ -56,6 +57,17 @@
 ### Languages and Tools:
 <table><tr><td valign="top" width="33%">
 
+<h4 align="center">Using</h4>
+<div align="center"> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+</div>
+</td>
+<td valign="top" width="33%">
 
 <h4 align="center">Have ever heard about</h4>
 <div align="center">
@@ -94,20 +106,6 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </div>
-
-</td>
-<td valign="top" width="33%">
-
-<h4 align="center">Using</h4>
-<div align="center"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-</div>
-
 </td>
 <td valign="top" width="33%">
 
