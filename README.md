@@ -6,8 +6,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%98v+try+my+best+to+learn+Web%26Python;And+wish+to+command+Java%26Go+tomorrow" alt="Typing SVG" /></a>
 </div>
 <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=jackball24&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jackball24&show_icons=true&theme=onedark" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jackball24&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" width=400 height=200/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jackball24&show_icons=true&theme=onedark" width=400 height=200/> 
 </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackball24&show_icons=true&theme=onedark&layout=compact&hide=html,css,tex" /> </div>
 
