@@ -26,7 +26,7 @@
 <a href="https://www.youtube.com/c/jackball" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jackball" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jackball" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jackball" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jackball" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jackball" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jackball24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jackball24" height="30" width="40" /></a>
+<a href="https://leetcode.cn/u/shikongl0k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jackball24" height="30" width="40" /></a>
 </p>
 <p align="center">
 <a href="https://t.me/jackball24" target="blank"><img align="center" src="https://camo.githubusercontent.com/6b473e429e65050eb89f66667f05233468000086b797cdd2210baaee9be61fe7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d6630393139393f7374796c653d666c61742d737175617265266c6f676f3d54656c656772616d266c6f676f436f6c6f723d666666666666"  alt="jackball24" /></a>
