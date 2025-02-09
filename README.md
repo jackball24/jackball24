@@ -13,7 +13,7 @@
 
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_60986212&theme=tokyonight"><img src="https://stats.justsong.cn/api/bilibili?id=185591917&theme=tokyonight"> </div>
 
-<h3 align="center">My blog: https://shikongl0k1.top (https://jackball24.github.io/)</h3>
+<h3 align="center">My blog: updating……</h3>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -56,7 +56,7 @@
  
 </div>
 
-
+<!--
 ### Languages and Tools:
 <table><tr><td valign="top" width="33%">
 
