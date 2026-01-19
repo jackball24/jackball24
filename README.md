@@ -3,7 +3,7 @@
 <div align="center"> <img src="https://count.getloli.com/get/@jackball24?theme=asoul" /> </div>
 <div align="center"> <img src="https://profile-counter.glitch.me/all-smile/count.svg" /> </div>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%98v+try+my+best+to+learn+Web%26Python;And+wish+to+command+Java%26Go+tomorrow" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%98v+try+my+best+to+learn+Web;And+wish+to+command+Java%26Go+tomorrow" alt="Typing SVG" /></a>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jackball24&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" width=400 height=200/>
